@@ -1,0 +1,68 @@
+baseURL = 'https://dcs.multiplatformkickstarter.com/'
+languageCode = 'en-us'
+title = 'Unofficial DCS Companion App'
+themesDir = "themes"
+theme = "hugo-apsho"
+
+
+# Navigation Bar
+[[menu.main]]
+name = "Home"
+url = "#hero"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#feature"
+weight = 2
+[[menu.main]]
+name = "Services"
+url = "#faq"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+name = "Home"
+url = "#"
+weight = 1
+[[menu.sitemap]]
+name = "Latest Article"
+url = "/blog"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "/privacy"
+weight = 3
+[[menu.sitemap]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+# Footer Address
+#[params.address]
+#address = "23 Khan Niketon, Grand Street, NYK."
+#email = "hello@multiplatformkickstarter.com"
+#phone = "+(448) 833 5272 332"
+
+# Footer Social
+[params.social]
+twitter = "https://x.com/mpkickstarter"
+github = "https://github.com/MultiplatformKickstarter"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = ""
+
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://multiplatformkickstarter.com/\" target=\"_blank\">Multiplatform Kickstarter </a> {year}"
+
+#contact
+email = "support@multiplatformkickstarter.com"

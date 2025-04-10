@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Designed for fans
+services:
+  - icon: ti-info
+    title: Manuals and Guides
+    description: Quickly access all DCS World aircraft manuals and guides in one place.
+
+  - icon: ti-game
+    title: Arcade Mini-Game
+    description: Play an exciting WWII-themed shooter inspired by the classic 1942, designed for quick, casual fun.
+
+  - icon: ti-list-ol
+    title: Module listing
+    description: Browse and explore all DCS World modules, complete with details.
