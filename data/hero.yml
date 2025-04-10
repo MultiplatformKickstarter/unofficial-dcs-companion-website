@@ -1,9 +1,9 @@
 ---
 enable: true
-title: Unofficial DCS Companion
+title: The perfect companion for your flights
 caption: MOBILE APPLICATION
 description: Unofficial DCS Companion is a lightweight app designed for fans of DCS World that combines convenience and entertainment. Whether you’re looking for quick access to essential flight manuals or a fun way to pass the time between flights, this app has you covered.
 buttonName: Available on
 button1text: Apple Store
 button2text: Google Play
-image: images/hero/hero-image.svg
+image: images/hero/hero-image-dcs.png

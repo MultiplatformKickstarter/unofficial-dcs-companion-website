@@ -10,17 +10,20 @@ theme = "hugo-apsho"
 name = "Home"
 url = "#hero"
 weight = 1
+
 [[menu.main]]
 name = "About"
 url = "#feature"
 weight = 2
+
+#[[menu.main]]
+#name = "Services"
+#url = "#faq"
+#weight = 3
+
 [[menu.main]]
-name = "Services"
-url = "#faq"
-weight = 3
-[[menu.main]]
-name = "Blog"
-url = "#blog"
+name = "News"
+url = "#news"
 weight = 4
 
 # Footer Sitemap
@@ -55,14 +58,14 @@ github = "https://github.com/MultiplatformKickstarter"
 [params]
 
 # Header
-logo = "images/logo.png"
+logo = "images/hero/dcs-logo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = ""
 
 # Footer
 footerTitle = "Get the latest app updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://multiplatformkickstarter.com/\" target=\"_blank\">Multiplatform Kickstarter </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://multiplatformkickstarter.com/\" target=\"_blank\">Multiplatform Kickstarter </a> 2023-{year}"
 
 #contact
 email = "support@multiplatformkickstarter.com"
