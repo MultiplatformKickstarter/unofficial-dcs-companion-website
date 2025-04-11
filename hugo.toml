@@ -23,7 +23,7 @@ weight = 2
 
 [[menu.main]]
 name = "News"
-url = "#news"
+url = "#blog"
 weight = 4
 
 # Footer Sitemap
@@ -31,24 +31,27 @@ weight = 4
 name = "Home"
 url = "#"
 weight = 1
+
 [[menu.sitemap]]
 name = "Latest Article"
 url = "/blog"
 weight = 2
+
 [[menu.sitemap]]
 name = "Privacy & Policy"
 url = "/privacy"
 weight = 3
-[[menu.sitemap]]
-name = "Contact"
-url = "/contact"
-weight = 4
+
+#[[menu.sitemap]]
+#name = "Contact"
+#url = "/contact"
+#weight = 4
 
 # Footer Address
-#[params.address]
-#address = "23 Khan Niketon, Grand Street, NYK."
-#email = "hello@multiplatformkickstarter.com"
-#phone = "+(448) 833 5272 332"
+[params.address]
+address = ""
+email = "hello@multiplatformkickstarter.com"
+phone = ""
 
 # Footer Social
 [params.social]

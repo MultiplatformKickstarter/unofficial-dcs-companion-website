@@ -56,9 +56,9 @@
               {{ replace .Site.Params.copyright2   "{year}" now.Year | safeHTML }}
           </p>
           <ul class="footer-description-social">
-            <li>
+            <!-- <li>
               <a href="{{ .Site.Params.social.facebook }}"><i class="ti-facebook"></i></a>
-            </li>
+            </li> -->
             <li>
               <a href="{{ .Site.Params.social.twitter }}"><i class="ti-twitter-alt"></i></a>
             </li>
@@ -83,13 +83,13 @@
       </div>
       <div class="col-lg-4 col-md-4">
         <div class="footer-widget">
-          <h4>Address</h4>
+          <h4>Contact</h4>
           {{ $address := .Site.Params.address }}
           <div class="footer-widget-list">
             <ul>
-              <li><a href="tel:{{ $address.phone }}"><i class="ti-mobile"></i>{{ $address.phone }}</a></li> 
+              <!-- <li><a href="tel:{{ $address.phone }}"><i class="ti-mobile"></i>{{ $address.phone }}</a></li> -->
               <li><a href="mailto:{{ $address.email }}"><i class="ti-email"></i>{{ $address.email }}</a></li>
-              <li><p><i class="ti-pin"></i>{{ $address.address }}</p></li>
+              <!-- <li><p><i class="ti-pin"></i>{{ $address.address }}</p></li> -->
             </ul>
           </div>
         </div>

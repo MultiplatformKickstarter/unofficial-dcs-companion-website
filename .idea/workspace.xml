@@ -4,36 +4,15 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="added analytics">
-      <change afterPath="$PROJECT_DIR$/content/blog/added-download-button-on-android.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/dcs-logo-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image-dcs-milsim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image-dcs-milsim.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot8.png" afterDir="false" />
+    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="added new images and screenshots">
+      <change afterPath="$PROJECT_DIR$/content/blog/unofficial-dcs-companion-published-android-ios.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/blog/dcs-companion-released.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/client/ferran-pons.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Corona-and-future-of-coders.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Freelancing-and-corona.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Future-of-cloud-computing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/How-solve-coding-problem.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Hugo and It's future.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Is-working-from-home-effective.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/Know-when-to-take-break.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/a-new-year-a-new-website-introducing-apsho-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/announcing-our-2016-roadmap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/announcing-our-2019-roadmap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/faq.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/faq.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hero.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/hero.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/homeblog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homeblog.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/screenshots.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/screenshots.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/added-download-button-on-android.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/added-download-button-on-android.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/privacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/privacy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,24 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ferran.pons/AndroidStudioProjects/unofficial-dcs-companion-website/static/images/footer&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ferran.pons/AndroidStudioProjects/unofficial-dcs-companion-website/content/blog",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blog" />
       <recent name="$PROJECT_DIR$/static/images/footer" />
       <recent name="$PROJECT_DIR$/static/images/hero" />
       <recent name="$PROJECT_DIR$" />
@@ -120,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744357649972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added new images and screenshots">
+      <option name="closed" value="true" />
+      <created>1744365838057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744365838057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +117,7 @@
     </ignored-roots>
     <MESSAGE value="updated gitignore" />
     <MESSAGE value="added analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="added analytics" />
+    <MESSAGE value="added new images and screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new images and screenshots" />
   </component>
 </project>
