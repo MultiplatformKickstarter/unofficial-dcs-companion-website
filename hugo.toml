@@ -69,6 +69,7 @@ github = "https://github.com/MultiplatformKickstarter"
 logo = "images/hero/dcs-logo-small.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "G-73T5L39NVM"
+attribution = "<a href=\"https://www.freepik.es/vector-gratis/composicion-isometrica-militar-coloreada-colores-beige_4301428.htm#fromView=search&page=1&position=39&uuid=26ebcbc8-ff8e-4572-900e-2d70d09cbd55&query=fighter+jet\">Illustrations by Macrovector</a>"
 
 # Footer
 footerTitle = "Get the latest app updates"
