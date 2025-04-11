@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="updated links">
+    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="updated images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/feature.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/feature.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/screenshots.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/screenshots.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744369149171</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated images">
+      <option name="closed" value="true" />
+      <created>1744370969386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744370969387</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +138,7 @@
     <MESSAGE value="added new images and screenshots" />
     <MESSAGE value="updated content" />
     <MESSAGE value="updated links" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated links" />
+    <MESSAGE value="updated images" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated images" />
   </component>
 </project>
