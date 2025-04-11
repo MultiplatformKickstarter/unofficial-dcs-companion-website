@@ -60,7 +60,7 @@ github = "https://github.com/MultiplatformKickstarter"
 # Header
 logo = "images/hero/dcs-logo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = ""
+googleAnalytics = "G-73T5L39NVM"
 
 # Footer
 footerTitle = "Get the latest app updates"
