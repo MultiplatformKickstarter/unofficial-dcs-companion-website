@@ -6,8 +6,8 @@ description2: Please send a message to hello@multiplatformkickstarter.com
 buttonText: Try It Free
 Title2nd: Build your business faster with Multiplatform Kickstarter
 description2nd: Developed by industry veterans, Multiplatform Kickstarter is the first template with all the boilerplate code needed to help you to kickstart your business in no time. Based in Kotlin Multiplatform (KMP) and Compose Multiplatform, with few simple steps you will have up and running applications for Android, iOS and Desktop using Ktor as the server. Save months of work plus a lot of money and focus on building a profitable business.
-image1: images/feature/feature-illustration-one.svg
-image2: images/feature/feature-illustration-two.svg
+image1: images/feature/feature-illustration-one.png
+image2: images/feature/feature-illustration-two.png
 checkItem:
   - text: Save time and effort with our collection of beautiful components, build great interfaces in minutes.
   - text: Built-in navigation using Voyager. Covers all the basic navigation scenarios with transitions.
