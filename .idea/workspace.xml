@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="updated gitignore">
+    <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="added analytics">
+      <change afterPath="$PROJECT_DIR$/content/blog/added-download-button-on-android.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hero/dcs-logo-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image-dcs-milsim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hero/hero-image-dcs-milsim.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshots/screenshot8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Corona-and-future-of-coders.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Freelancing-and-corona.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Future-of-cloud-computing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/How-solve-coding-problem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Hugo and It's future.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Is-working-from-home-effective.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/Know-when-to-take-break.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/a-new-year-a-new-website-introducing-apsho-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/announcing-our-2016-roadmap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/announcing-our-2019-roadmap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faq.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/faq.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hero.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/hero.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/homeblog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homeblog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/screenshots.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/screenshots.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +44,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -83,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744290406564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added analytics">
+      <option name="closed" value="true" />
+      <created>1744357649972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744357649972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +128,7 @@
       <path value="$PROJECT_DIR$/themes/hugo-apsho" />
     </ignored-roots>
     <MESSAGE value="updated gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated gitignore" />
+    <MESSAGE value="added analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="added analytics" />
   </component>
 </project>

@@ -58,7 +58,7 @@ github = "https://github.com/MultiplatformKickstarter"
 [params]
 
 # Header
-logo = "images/hero/dcs-logo.png"
+logo = "images/hero/dcs-logo-small.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "G-73T5L39NVM"
 

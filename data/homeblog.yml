@@ -1,4 +1,4 @@
 ---
-enable: false
-title: Recent Articles
-blogButtonText: See all posts
+enable: true
+title: Latest News
+blogButtonText: See all
