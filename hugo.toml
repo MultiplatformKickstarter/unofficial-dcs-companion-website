@@ -12,9 +12,14 @@ url = "#hero"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "#feature"
+name = "Screenshots"
+url = "#screenshots"
 weight = 2
+
+#[[menu.main]]
+#name = "About"
+#url = "#feature"
+#weight = 3
 
 #[[menu.main]]
 #name = "Services"
